@@ -2,7 +2,6 @@ import java.math.BigInteger;
 import java.util.Scanner;
 
 public class MainClass {
-
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
 		int n=in.nextInt();
@@ -17,5 +16,4 @@ public class MainClass {
 		    System.out.println(fact);
 		}
 	}
-
 }
